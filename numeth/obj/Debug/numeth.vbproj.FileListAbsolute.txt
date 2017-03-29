@@ -1,0 +1,77 @@
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\bin\Debug\numeth.exe.config
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\bin\Debug\numeth.exe
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\bin\Debug\numeth.pdb
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\bin\Debug\numeth.xml
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form1.resources
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Resources.resources
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.exe
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.xml
+c:\users\vy\documents\visual studio 2015\Projects\numeth\numeth\obj\Debug\numeth.pdb
+C:\Users\bunqu\Downloads\numeth\numeth\bin\Debug\numeth.exe.config
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.exe
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.xml
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.pdb
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.Form1.resources
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.Resources.resources
+C:\Users\bunqu\Downloads\numeth\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+C:\Users\bunqu\Downloads\numeth\numeth\bin\Debug\numeth.exe
+C:\Users\bunqu\Downloads\numeth\numeth\bin\Debug\numeth.pdb
+C:\Users\bunqu\Downloads\numeth\numeth\bin\Debug\numeth.xml
+E:\5-3 NUXX\numeth\numeth\numeth\bin\Debug\numeth.exe.config
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.exe
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.xml
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.pdb
+E:\5-3 NUXX\numeth\numeth\numeth\bin\Debug\numeth.exe
+E:\5-3 NUXX\numeth\numeth\numeth\bin\Debug\numeth.pdb
+E:\5-3 NUXX\numeth\numeth\numeth\bin\Debug\numeth.xml
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.Form1.resources
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.Resources.resources
+E:\5-3 NUXX\numeth\numeth\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+C:\Users\bunqu\Downloads\numeth-difference\numeth\bin\Debug\numeth.exe.config
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.exe
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.xml
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.pdb
+C:\Users\bunqu\Downloads\numeth-difference\numeth\bin\Debug\numeth.exe
+C:\Users\bunqu\Downloads\numeth-difference\numeth\bin\Debug\numeth.pdb
+C:\Users\bunqu\Downloads\numeth-difference\numeth\bin\Debug\numeth.xml
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.Form1.resources
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.Resources.resources
+C:\Users\bunqu\Downloads\numeth-difference\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\bin\Debug\numeth.exe.config
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.exe
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.xml
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.pdb
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\bin\Debug\numeth.exe
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\bin\Debug\numeth.pdb
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\bin\Debug\numeth.xml
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.Form1.resources
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.Form2.resources
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.Resources.resources
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.Form0.resources
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\bin\Debug\aa-DJ\numeth.resources.dll
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\numeth.Form1.aa-DJ.resources
+C:\Users\Allison\Downloads\Compressed\numeth-difference\numeth\obj\Debug\aa-DJ\numeth.resources.dll
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\bin\Debug\numeth.exe.config
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.exe
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.xml
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.pdb
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\bin\Debug\numeth.exe
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\bin\Debug\numeth.pdb
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\bin\Debug\numeth.xml
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\bin\Debug\aa-DJ\numeth.resources.dll
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.vbprojResolveAssemblyReference.cache
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form1.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form2.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form0.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form3.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Resources.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.Form1.aa-DJ.resources
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\numeth.vbproj.GenerateResource.Cache
+C:\Users\Allison\Documents\Visual Studio 2015\Projects\numeth\numeth\obj\Debug\aa-DJ\numeth.resources.dll
